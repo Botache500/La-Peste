@@ -18,6 +18,6 @@ Crear la vacuna representada en el tablero como progreso, gana el equipo que hay
 
 ![image](https://github.com/Botache500/Juegos-Print-and-Play/assets/171523160/20dd2ce9-9a91-491e-9260-c61315062499)
 
-![image](https://github.com/Botache500/La-Peste/assets/171523160/a8c3b8d0-8d51-423d-8289-c0caf6931d2a)
+![image](https://github.com/Botache500/Juegos-Print-and-Play/assets/171523160/df906463-020e-4b27-98b6-a46a9b0f3a9e)
 
 ![image](https://github.com/Botache500/Juegos-Print-and-Play/assets/171523160/b33ce811-66b5-4beb-834b-71ca43db6864)
